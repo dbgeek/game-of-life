@@ -1,0 +1,16 @@
+{
+  "name": "gamle-of-life",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "devDependencies": {
+    "eslint": "^7.7.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-jest": "^23.20.0"
+  },
+  "author": "Björn Ahl",
+  "license": "MIT",
+  "private": true
+}
